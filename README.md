@@ -1,3 +1,3 @@
 # projekt_couchsurfing
 
-To je nas _prvi_ projekt.
+Pri tem projektu bom raziskovala, kaksene možnosti imas za couchsurf v določenih mestih.
